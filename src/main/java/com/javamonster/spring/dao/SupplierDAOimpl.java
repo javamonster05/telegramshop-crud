@@ -9,6 +9,7 @@ import org.hibernate.SessionFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
 
 @Repository
 public class SupplierDAOimpl implements SupplierDAO {
@@ -38,7 +39,7 @@ public class SupplierDAOimpl implements SupplierDAO {
     @Override
     public List<Supplier> listSuppliers() {
         Session session = sessionFactory.getCurrentSession();
-        List<Supplier> supplierList = session.createQuery("from Person").list();
+        List<Supplier> supplierList = session.createQuery("from Supplier").list();
         for (Supplier s :supplierList) {
             logger.info("Supplier list:: " + s);
         }

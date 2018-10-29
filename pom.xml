@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.javamonster</groupId>
-    <artifactId>crud-telegramshop</artifactId>
+    <artifactId>telegramshop-admin</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
@@ -39,13 +39,6 @@
             <groupId>org.springframework</groupId>
             <artifactId>spring-tx</artifactId>
             <version>${org.springframework-version}</version>
-        </dependency>
-
-        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
-        <dependency>
-            <groupId>mysql</groupId>
-            <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.13</version>
         </dependency>
 
         <!-- Hibernate -->
@@ -86,6 +79,13 @@
             <artifactId>slf4j-api</artifactId>
             <version>${org.slf4j-version}</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.13</version>
+        </dependency>
+
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>jcl-over-slf4j</artifactId>
@@ -192,20 +192,6 @@
                 <version>1.2.1</version>
                 <configuration>
                     <mainClass>org.test.int1.Main</mainClass>
-                </configuration>
-            </plugin>
-
-            <plugin>
-                <artifactId>maven-war-plugin</artifactId>
-                <configuration>
-                    <attachClasses>true</attachClasses>
-                    <webXml>target/web.xml</webXml>
-                    <webResources>
-                        <resource>
-                            <directory>src/main/webapp</directory>
-                            <filtering>true</filtering>
-                        </resource>
-                    </webResources>
                 </configuration>
             </plugin>
         </plugins>

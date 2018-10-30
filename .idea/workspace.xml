@@ -7,28 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b17f946d-4151-467f-b3c9-8bb17be771e7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/telegramshop_admin_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javamonster/spring/SupplierController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javamonster/spring/controller/SupplierController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javamonster/spring/dao/SupplierDAOimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javamonster/spring/dao/SupplierDAOimpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javamonster/spring/model/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javamonster/spring/model/Supplier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/root-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/root-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/telegramshop_admin_war_exploded/WEB-INF/classes/com/javamonster/spring/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/telegramshop_admin_war_exploded/WEB-INF/classes/com/javamonster/spring/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/telegramshop_admin_war_exploded/WEB-INF/classes/com/javamonster/spring/controller/SupplierController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/telegramshop_admin_war_exploded/WEB-INF/classes/com/javamonster/spring/controller/SupplierController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/telegramshop_admin_war_exploded/WEB-INF/classes/com/javamonster/spring/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/telegramshop_admin_war_exploded/WEB-INF/classes/com/javamonster/spring/model/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/telegramshop_admin_war_exploded/WEB-INF/views/product.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/telegramshop_admin_war_exploded/WEB-INF/views/product.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/telegramshop_admin_war_exploded/WEB-INF/views/supplier.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/telegramshop_admin_war_exploded/WEB-INF/views/supplier.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javamonster/spring/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javamonster/spring/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javamonster/spring/controller/SupplierController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javamonster/spring/controller/SupplierController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/supplier.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/supplier.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/javamonster/spring/SupplierController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/javamonster/spring/dao/SupplierDAOimpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/javamonster/spring/dao/SupplierDAOimpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/javamonster/spring/model/Supplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/javamonster/spring/model/Supplier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/crud-telegramshop/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/crud-telegramshop/WEB-INF/spring/root-context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/crud-telegramshop/WEB-INF/views/supplier.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/crud-telegramshop/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/javamonster/spring/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/javamonster/spring/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/javamonster/spring/controller/SupplierController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/javamonster/spring/controller/SupplierController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/javamonster/spring/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/javamonster/spring/model/Product.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -55,11 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ProductController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javamonster/spring/controller/ProductController.java">
+      <file leaf-file-name="MainController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javamonster/spring/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            <state relative-caret-position="260">
+              <caret line="13" column="56" lean-forward="true" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,8 +61,8 @@
       <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/javamonster/spring/model/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+            <state relative-caret-position="320">
+              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
               <folding>
                 <element signature="e#719#720#0" expanded="true" />
                 <element signature="e#746#747#0" expanded="true" />
@@ -86,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="product.jsp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="product.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
+            <state relative-caret-position="256">
+              <caret line="55" column="46" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -98,16 +89,44 @@
       <file leaf-file-name="Supplier.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/javamonster/spring/model/Supplier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            <state relative-caret-position="229">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#379#388#0" expanded="true" />
-                <element signature="e#656#657#0" expanded="true" />
-                <element signature="e#687#688#0" expanded="true" />
-                <element signature="e#742#743#0" expanded="true" />
-                <element signature="e#782#783#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="supplier.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/supplier.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="62" column="23" lean-forward="true" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javamonster/spring/controller/ProductController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#676#677#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SupplierController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javamonster/spring/controller/SupplierController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -139,7 +158,6 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/javamonster/spring/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/supplier.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/javamonster/spring/dao/ProductDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javamonster/spring/dao/ProductDAOimpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javamonster/spring/service/ProductService.java" />
@@ -147,12 +165,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com/javamonster/spring/SupplierController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javamonster/spring/dao/SupplierDAOimpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javamonster/spring/service/ProductServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/javamonster/spring/model/Product.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javamonster/spring/model/Supplier.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javamonster/spring/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javamonster/spring/controller/SupplierController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/supplier.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/javamonster/spring/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javamonster/spring/model/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product.jsp" />
       </list>
     </option>
   </component>
@@ -215,9 +236,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -334,6 +352,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -496,12 +517,14 @@
       <workItem from="1540801935826" duration="146000" />
       <workItem from="1540802111339" duration="15000" />
       <workItem from="1540802149958" duration="21155000" />
-      <workItem from="1540846348756" duration="1076000" />
+      <workItem from="1540846348756" duration="2586000" />
+      <workItem from="1540894757515" duration="9125000" />
+      <workItem from="1540920155063" duration="1218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36477000" />
+    <option name="totallyTimeSpent" value="48330000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -538,7 +561,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.9188034" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32905984" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985755" visible="true" weight="0.27919462" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4985755" weight="0.28322148" />
       <window_info id="Web" order="6" sideWeight="0.5014245" side_tool="true" weight="0.2751678" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="5" side_tool="true" />
@@ -592,12 +615,49 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javamonster/spring/model/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#1005#1006#0" expanded="true" />
+            <element signature="e#1033#1034#0" expanded="true" />
+            <element signature="e#1312#1313#0" expanded="true" />
+            <element signature="e#1342#1343#0" expanded="true" />
+            <element signature="e#1388#1389#0" expanded="true" />
+            <element signature="e#1426#1427#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="64" lean-forward="true" selection-start-column="64" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javamonster/spring/model/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#379#388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javamonster/spring/controller/ProductController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -606,9 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -640,10 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="25" column="59" lean-forward="true" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
-          <folding>
-            <element signature="e#635#636#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -685,10 +738,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#379#388#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
-            <element signature="e#782#783#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -742,13 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/supplier.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -808,9 +850,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -828,50 +867,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javamonster/spring/controller/SupplierController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+        <state relative-caret-position="274">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javamonster/spring/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="56" lean-forward="true" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
           <folding>
-            <element signature="e#635#636#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javamonster/spring/controller/ProductController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        <state relative-caret-position="337">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javamonster/spring/model/Supplier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state relative-caret-position="229">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#379#388#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
-            <element signature="e#782#783#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/supplier.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="74">
+          <caret line="62" column="23" lean-forward="true" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javamonster/spring/model/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        <state relative-caret-position="320">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
           <folding>
             <element signature="e#719#720#0" expanded="true" />
             <element signature="e#746#747#0" expanded="true" />
@@ -885,13 +938,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javamonster/spring/controller/ProductController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="256">
+          <caret line="55" column="46" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
         </state>
       </provider>
     </entry>

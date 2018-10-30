@@ -9,6 +9,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
 @Controller
+@RequestMapping("/suppliers")
 public class SupplierController {
 
     private SupplierService supplierService;
@@ -19,22 +20,15 @@ public class SupplierController {
         this.supplierService = supplierService;
     }
 
-    @RequestMapping("/")
-    @ResponseBody
-    public String home(){
-        return "<h1>Home<h2>\n" +
-                "<a href=\"/suppliers\">Suppliers</a><br>"+
-                "<a href=\"/products\">Products</a><br>";
-    }
 
-    @RequestMapping(value = "/suppliers", method = RequestMethod.GET)
+    @RequestMapping(value = "", method = RequestMethod.GET) // mb podpravit
     public String listSuppliers(Model model){
         model.addAttribute("supplier", new Supplier());
         model.addAttribute("listSuppliers", supplierService.listSuppliers());
         return "supplier";
     }
 
-    @RequestMapping(value = "/supplier/add", method = RequestMethod.POST)
+    @RequestMapping(value = "/add", method = RequestMethod.POST)
     public String addSupplier(@ModelAttribute("supplier") Supplier s){
         if(s.getId() == 0){
             supplierService.addSupplier(s);

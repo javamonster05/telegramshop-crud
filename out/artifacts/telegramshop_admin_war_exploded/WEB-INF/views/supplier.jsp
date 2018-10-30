@@ -17,7 +17,7 @@
     Add a Supplier
 </h1>
 
-<c:url var="addAction" value="/supplier/add" ></c:url>
+<c:url var="addAction" value="/suppliers/add" ></c:url>
 
 <%--@elvariable id="supplier" type=""--%>
 <form:form action="${addAction}" modelAttribute="supplier">
@@ -69,15 +69,15 @@
         <tr>
             <th width="80">Supplier ID</th>
             <th width="120">Supplier Name</th>
-            <th width="60">Edit</th>
-            <th width="60">Delete</th>
+            <th width="60"></th>
+            <th width="60"></th>
         </tr>
         <c:forEach items="${listSuppliers}" var="supplier">
             <tr>
                 <td>${supplier.id}</td>
                 <td>${supplier.name}</td>
-                <td><a href="<c:url value='/edit/${supplier.id}' />" >Edit</a></td>
-                <td><a href="<c:url value='/remove/${supplier.id}' />" >Delete</a></td>
+                <td><a href="<c:url value='suppliers/edit/${supplier.id}' />" >Edit</a></td>
+                <td><a href="<c:url value='suppliers/remove/${supplier.id}' />" >Delete</a></td>
             </tr>
         </c:forEach>
     </table>
